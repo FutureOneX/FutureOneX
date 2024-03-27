@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **My Dog or My Overlanding Tours!**
 
-- 📫 How to reach me **shamilgumusel@icloud.com**
+- 📫 How to reach me **jg@vlow.studio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
