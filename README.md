@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaqub Schamil-Khan Gümüsel</h1>
 <h3 align="center">a Frontend Web-Developer currently in Germany 🇩🇪</h3>
 
-- 🌱 I’m currently working with **html, scss, css, javascript, react,**
+- 🌱 I’m currently working with **html, scss, css, javascript, react, PHP**
 
 - 💬 Ask me about **My Dog or My Overlanding Tours!**
 
